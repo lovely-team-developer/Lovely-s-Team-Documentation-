@@ -14,6 +14,7 @@
 
 * About and Help command should work now
 * Server info should work now
+* Fixed an issue with the welcome message
 
 #### Removed
 
