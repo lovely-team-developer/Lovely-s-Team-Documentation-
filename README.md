@@ -4,7 +4,7 @@ description: Welcome to Lovely's Team Documentation!
 
 # Lovely's Team Documentation
 
-![](.gitbook/assets/lovelys-team-banner.gif)
+![](.gitbook/assets/lovelys-team-banner.png)
 
 ## Lovely's Team
 
