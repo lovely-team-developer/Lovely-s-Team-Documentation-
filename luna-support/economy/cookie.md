@@ -1,14 +1,12 @@
 ---
-description: >-
-  This will allow you to send an announcement message to your designed
-  announcement channel.
+description: This will give the mentioned user a cookie!
 ---
 
 # Cookie
 
 ## Command Usage \| !cookie
 
-Cookie is a globaly economy command that gives the mention user a cookie. You can see the global leaderboard using `!cookieboard` and you can see how many cookies you have by using `!profile`!
+Cookie is a global economy command that gives the mentioned user a cookie. You can see the global leaderboard using `!cookieboard` and you can see how many cookies you have by using `!profile`!
 
 ## Image Example
 
