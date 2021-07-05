@@ -21,7 +21,7 @@ Lovely's Team is a Discord team that runs the following bots:
 * **Demon Portal - Coming Soon...**
   * Demon Portal can be used to help out advertising servers. Demon Portal was designed to send advertisements to certain channels with certain categories.
 
-### Important Links
+### Important Resources
 
 * [Community Server](https://discord.com/invite/QNKr7tpQzW)
 * Advertising Server _Coming soon..._
