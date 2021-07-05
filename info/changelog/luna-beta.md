@@ -10,6 +10,8 @@
 
 #### Changed
 
+* Leaderboard has a new layout
+
 #### Fixed
 
 * About and Help command should work now
