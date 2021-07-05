@@ -7,7 +7,7 @@
 #### Added
 
 * **Welcome message functions:** setwelcomechannel, setwelcomemessage, and welcomehelp
-* Added in "Embed Creator" section in help command to prepare for version 3.1.0
+* Added in "Embed Creator" section in help command to prepare for version 3.1.0.
 
 #### Changed
 
@@ -27,4 +27,4 @@
 #### Removed
 
 * Removed Roblox command
-
+* Welcome message was removed from version 3.1.0. and will be added in the future
