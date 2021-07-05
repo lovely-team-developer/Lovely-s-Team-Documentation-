@@ -11,6 +11,7 @@
 #### Changed
 
 * Leaderboard has a new layout
+* Replace username in user info with mention
 
 #### Fixed
 
