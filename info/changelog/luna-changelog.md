@@ -1,5 +1,6 @@
 # Luná Changelog
-## Luná Changelog • 2021 
+
+## Luná Changelog • 2021
 
 ### July
 
