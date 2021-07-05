@@ -7,6 +7,7 @@
 #### Added
 
 * **Welcome message functions:** setwelcomechannel, setwelcomemessage, and welcomehelp
+* Added in "Embed Creator" section in help command to prepare for version 3.1.0
 
 #### Changed
 
