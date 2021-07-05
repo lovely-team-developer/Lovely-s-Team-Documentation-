@@ -8,7 +8,7 @@ description: >-
 
 ## Command Usage \| !announce
 
-You can post an announcement in your designed announcement channel. Simply use the following command: `!announce <Channel> <Message>`. Your message will be sent in an embedded message to the channel you mention. Before using this command, please make sure you are the creator of the server!
+You can post an announcement in your designed announcement channel. Simply use the following command: `!announce <Channel> <Message>`. Your message will be sent in an embedded message to the channel you mention. Before using this command, please make sure you are an administrator of the server!
 
 ## Image Example
 
