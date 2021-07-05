@@ -1,4 +1,3 @@
-# Introduction
 # What is profile?
 Profiles is one of Luná popular features. It allows you to set up a global profile which can be seen in every server. Your profile can contain the following features:
 - Name
