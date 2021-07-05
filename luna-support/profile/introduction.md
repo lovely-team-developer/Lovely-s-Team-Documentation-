@@ -18,9 +18,9 @@ Profiles is one of Luná popular features. It allows you to set up a global prof
 - Profile Image
 - Profile Embed Color
 
-# Profile Rules:
+## Profile Rules:
 1. Profiles must not contain NSFW content.
 2. Profiles must follow [Discord's Terms of Service](https://discord.com/terms) and [Discord's Guidelines](https://discord.com/guidelines)
 3. Profiles must not contain Racism, Homophobia, Sexism or Slurs.
 
-## Breaking any rules will get you blacklisted from using the bot!
+### Breaking any rules will get you blacklisted from using the bot!
