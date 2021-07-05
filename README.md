@@ -24,7 +24,7 @@ Lovely's Team is a Discord team that runs the following bots:
 ### Important Links
 
 * [Community Server](https://discord.com/invite/QNKr7tpQzW)
-* Advertising Server Coming soon
+* Advertising Server _Coming soon..._
 * [Support Server](https://discord.com/invite/SwsPSXvATk)
 * [Partnership Form](https://forms.gle/ZPx5thxrToLsGVkG8)
 * [Luná Invite](https://discord.com/oauth2/authorize?client_id=826216708867620905&permissions=8&scope=bot%20applications.commands)
