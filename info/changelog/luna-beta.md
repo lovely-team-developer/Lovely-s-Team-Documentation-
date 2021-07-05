@@ -14,6 +14,7 @@
 * Replace username in user info with mention
 * Beta bot information on help command got updated
 * Removed beta bot ping in about and replaced it with the beta bot information
+* Announce got a few changes
 
 #### Fixed
 
