@@ -1,6 +1,6 @@
 # Luná Beta Changelog
 
-## Luná Beta Changelog • 2021 
+## Luná Beta Changelog • 2021
 
 ### July
 
@@ -28,3 +28,4 @@
 
 * Removed Roblox command
 * Welcome message was removed from version 3.1.0. and will be added in the future
+
