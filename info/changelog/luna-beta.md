@@ -16,6 +16,7 @@
 * Beta bot information on help command got updated
 * Removed beta bot ping in about and replaced it with the beta bot information
 * Announce got a few changes
+* Help command embed layout was changed and has information about new commands. **New commands will be available in version 2.1.1.**
 
 #### Fixed
 
