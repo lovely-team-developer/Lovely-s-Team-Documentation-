@@ -18,7 +18,7 @@ Lovely's Team is a Discord team that runs the following bots:
   * Luná Beta is an unstable version of Luná. Luná Beta is used to test new features that might be added to Luná in the future. We do not recommend you using this bot as it has many bugs!
 * **Luná Play - Coming Soon...**
   * Luná Play is designed to be a fun bot. Luná Play contains features such as reaction commands, a free leveling system, and action commands. As the bot is still brand new, many features are still being planned!
-* **Demon Portal - Coming Soon...**
+* **Demon Portal - Beta release date: 7/18/2021**
   * Demon Portal can be used to help out advertising servers. Demon Portal was designed to send advertisements to certain channels with certain categories.
 
 ### Important Resources
